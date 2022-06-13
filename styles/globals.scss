@@ -1,4 +1,8 @@
 @import "~/styles/variables.module.scss";
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 
 html,
 body {
@@ -25,7 +29,7 @@ body {
   --base-font: 'Readex Pro', Helvetica, Arial, sans-serif;
   --base-letter-spacing: normal;
   // --accent-font: 'Press Start 2P', cursive;
-   --accent-font: 'Tillana', cursive;
+  --accent-font: 'Tillana', cursive;
   // --accent-font: 'Creepster', cursive;
   --accent-letter-spacing: 2px;
 
@@ -41,12 +45,15 @@ body {
   max-width: 100%;
 }
 
-body, html, .base-text {
+body,
+html,
+.base-text {
   font-family: var(--base-font);
   letter-spacing: var(--base-letter-spacing);
 }
 
-h1, h2 {
+h1,
+h2 {
   font-family: var(--accent-font);
   letter-spacing: var(--accent-letter-spacing);
 }
@@ -72,4 +79,16 @@ a {
 
 ::-webkit-scrollbar-thumb {
   background: var(--primary-color-darken10);
+}
+
+.bg-header {
+  background-color: var(--primary-color-darken10);
+}
+
+.bg-button {
+  background-color: #0064e7;
+}
+
+.app-font {
+  font-family: 'Creepster', cursive;
 }
