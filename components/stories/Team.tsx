@@ -9,8 +9,8 @@ const Team: FunctionComponent = () => {
       items={[
         {
           image: 'https://lh3.googleusercontent.com/cuj35f7TVERNS-ypwEWON3wA4CRT9rrwnEWB3vdAC3OnR7TByv3yrFyZyvpMicsC2EdYtrHawXhEzoCWwqzDNBsV24SBGLb1kDgaxA=w600',
-          title: 'Antonis',
-          role: 'Creative director',
+          title: 'D"Artagnan',
+          role: 'Creative Director',
           social: [
             'https://www.instagram.com/',
             'https://www.tiktok.com/'
@@ -18,12 +18,12 @@ const Team: FunctionComponent = () => {
         },
         {
           image: 'https://lh3.googleusercontent.com/kg-A4af5pIfGfb2qQ3YuRHL97g98ziQVUFuAbanyrQltEr9Kzs3rJOub7rr2gacUuy9PgeD1lu24p_H7tWZjK1xKp-srbKFHuEpN=w600',
-          title: 'Pavlos',
+          title: 'Pavvy',
           role: 'Artist/Animator',
           social: [
             'https://medium.com/',
-            'https://www.tiktok.com/@kriakiku',
-            'https://www.instagram.com/kriakiku/'
+            'https://www.tiktok.com/',
+            'https://www.instagram.com/'
           ]
         },
         {
