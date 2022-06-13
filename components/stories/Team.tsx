@@ -29,7 +29,7 @@ const Team: FunctionComponent = () => {
         {
           image: 'https://lh3.googleusercontent.com/90MaVfN87DGP3I_c7CK0-S-jWLA8CTEja1xxFKtAJaeI2t5z9z5F9g4Ph6ZJsXVCVlnMfWjKJQxrycS6QIPxUuWp4hnU3ptUWggx6IM=w600',
           title: 'Alya',
-          role: 'Dev/Techie',
+          role: 'Creative Director',
           social: [
             'https://www.linkedin.com/',
             'https://medium.com/'
