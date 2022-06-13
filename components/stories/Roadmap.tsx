@@ -12,21 +12,21 @@ const Roadmap: FunctionComponent = () => {
           Cultivar Collectives eBook Discount
         </>)
       },
-      {
-        image: 'https://lh3.googleusercontent.com/o6APZAFIoXG-cY4qXVlImJGuxLqJaDmmE-E3fQVSCk-ZFOonys7bfWMMtjBxW22O-4-g6oOzjHt3IZM02XnjE7-M2dPcvss3EcFpbcM=w330',
-        title: '2000 sales',
-        content: 'Cultivar Collectives eBook Discount'
-      },
-      {
-        image: 'https://lh3.googleusercontent.com/Z6cwjBUqIQWoeA24Iri_D_b8uw_R2LvtJ22ciur9ZyHLRdjs6IkSwmU9JQZO8SkNyNCshZG9DMBVDiPg1B-lhG1tQdmgRUl5j50J-g=w330',
-        title: '1500 sale',
-        content: '2 Legendary monsters Giveaway'
-      },
-      {
-        image: 'https://lh3.googleusercontent.com/sfX1s_hV9zcPQMH7NHHB7y041GtarRNYGO6ibZ_oh2SBNvnsBiAwYZxEzA2NiqfcvpTGQAJ6Dg-zwsm3EUwuCyd7haa9W9ZNbkbQ150=w330',
-        title: '2000 christmas sales',
-        content: 'Unique 1/1 Custom NFT designed specially for 5 holders (with their animal or another design'
-      },
+//      {
+//        image: 'https://lh3.googleusercontent.com/o6APZAFIoXG-cY4qXVlImJGuxLqJaDmmE-E3fQVSCk-ZFOonys7bfWMMtjBxW22O-4-g6oOzjHt3IZM02XnjE7-M2dPcvss3EcFpbcM=w330',
+//        title: '2000 sales',
+//        content: 'Cultivar Collectives eBook Discount'
+//      },
+//      {
+//        image: 'https://lh3.googleusercontent.com/Z6cwjBUqIQWoeA24Iri_D_b8uw_R2LvtJ22ciur9ZyHLRdjs6IkSwmU9JQZO8SkNyNCshZG9DMBVDiPg1B-lhG1tQdmgRUl5j50J-g=w330',
+//        title: '1500 sale',
+//        content: '2 Legendary monsters Giveaway'
+//      },
+//      {
+//        image: 'https://lh3.googleusercontent.com/sfX1s_hV9zcPQMH7NHHB7y041GtarRNYGO6ibZ_oh2SBNvnsBiAwYZxEzA2NiqfcvpTGQAJ6Dg-zwsm3EUwuCyd7haa9W9ZNbkbQ150=w330',
+//        title: '2000 christmas sales',
+//        content: 'Unique 1/1 Custom NFT designed specially for 5 holders (with their animal or another design'
+//      },
       {
         image: 'https://lh3.googleusercontent.com/bDUhgMzEZmqsqmxVeTH6TlZvVWARNPVN13Cn8e0S1Hor9NCIhtHxCaPMQgguQ7HxM7OHEFWArdvOUlTH8XJB_Fn1laVL6MR-r8Af=w330',
         title: 'Edition 2 Cultivarss 1000 sales',
