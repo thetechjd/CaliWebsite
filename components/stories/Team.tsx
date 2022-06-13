@@ -18,7 +18,7 @@ const Team: FunctionComponent = () => {
         },
         {
           image: 'https://lh3.googleusercontent.com/kg-A4af5pIfGfb2qQ3YuRHL97g98ziQVUFuAbanyrQltEr9Kzs3rJOub7rr2gacUuy9PgeD1lu24p_H7tWZjK1xKp-srbKFHuEpN=w600',
-          title: 'Gotlib',
+          title: 'Pavlos',
           role: 'Artist/Animator',
           social: [
             'https://medium.com/',
@@ -37,7 +37,7 @@ const Team: FunctionComponent = () => {
         },
         {
           image: 'https://lh3.googleusercontent.com/DEwYW2YzgdNQeNWzDnexr0kylmo-NZ2AI75_d6piM9lxx8YnzUz7vC5zs5_GO_XzbRAkbUUh5mGLRFWWoew4sw1r-SwR1UmAxfF0zQ=w600',
-          title: 'Lucky',
+          title: 'Lucy',
           role: 'Frontend dev',
           social: [
             'https://medium.com/',
