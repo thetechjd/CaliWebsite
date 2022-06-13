@@ -40,7 +40,7 @@ const Roadmap: FunctionComponent = () => {
       },
       {
         image: 'https://lh3.googleusercontent.com/cUabcEQS1yFxENEZpb4FvoBfmHFQm3zTwHLL1rU07acT7CZ1hyzKrsr0ulxTIUUzmIz7NWviRuJVISIxIX6roS7Rk3CcJmxD9dgihg=w330',
-        title: '4500 sales',
+        title: '2n Edition 4500 sales',
         content: 'Merch store (merch for members and their pets)'
       },
       {
