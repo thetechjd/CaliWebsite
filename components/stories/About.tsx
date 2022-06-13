@@ -12,16 +12,13 @@ const About: FunctionComponent = () => {
       subtitle={(
         <div>
           <p>
-            In one night seemingly creepy but very cute monsters filled the streets of cities all over the world. 
-            Every creature needs a home, so an unknown organization called Monster Shelter set itself the goal of putting these small critters in good hands...
-          </p>
-          <p>
+            A catalog of digital NFT Art Collectables with embedded membership goodies for holders; and the genesis of the “Cultivar” genre of avatar creations for participating brand merchants, flower-loving collectors, and traders belonging to the Cannabis Tribes Member Community. These little farmhand creatures love to till the land, grow the flower, and pack the buds
             Monster Shelter is a generative collection of animated monsters NFT with a variety of colorful backgrounds, 
             inspired by horror culture. Each monster has up to 10 traits on itself and its own color palette, 
             creating an individual appearance and character of the animal.
           </p>
           <p>
-            After the launch monsters will become playable characters in our Tamagotchi P2E game.
+           Buy Cultivars, Earn Cultivar Rewards and Experience Cultivar Grade Flower Power from the Best Growers!
           </p>
         </div>
       )}
