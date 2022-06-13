@@ -6,7 +6,7 @@ const Roadmap: FunctionComponent = () => {
     <TimelineContainer id="roadmap" title="Roadmap" items={[
       {
         image: 'https://lh3.googleusercontent.com/qDLIwHJ5_bAoRUtlSGZuM3jTU_KNTvoLvDQSH8vv6ReuuxNIXCmgUq37EprQduZr2_XJhFHSLCxwm2XD6MTD2TIR-o4kX7U5QQ2148I=w330',
-        title: 'First 1000 Sales',
+        title: 'Edition 1 Culticars - First 1000 Sales',
         content: (<>
           Whitelist for Gold NFT Certificate Giveway<br />
         </>)
@@ -28,7 +28,7 @@ const Roadmap: FunctionComponent = () => {
       },
       {
         image: 'https://lh3.googleusercontent.com/bDUhgMzEZmqsqmxVeTH6TlZvVWARNPVN13Cn8e0S1Hor9NCIhtHxCaPMQgguQ7HxM7OHEFWArdvOUlTH8XJB_Fn1laVL6MR-r8Af=w330',
-        title: '2500 sales',
+        title: 'Edition 2 Cultivarss 1000 sales',
         content: '2 Legendary monsters Giveaway'
       },
       {
