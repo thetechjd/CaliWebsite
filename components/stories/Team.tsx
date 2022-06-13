@@ -10,7 +10,7 @@ const Team: FunctionComponent = () => {
         {
           image: 'https://lh3.googleusercontent.com/cuj35f7TVERNS-ypwEWON3wA4CRT9rrwnEWB3vdAC3OnR7TByv3yrFyZyvpMicsC2EdYtrHawXhEzoCWwqzDNBsV24SBGLb1kDgaxA=w600',
           title: 'D"Artagnan',
-          role: 'Creative Director',
+          role: 'Dev/Techie',
           social: [
             'https://www.instagram.com/',
             'https://www.tiktok.com/'
