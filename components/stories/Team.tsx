@@ -9,7 +9,7 @@ const Team: FunctionComponent = () => {
       items={[
         {
           // image: 'https://lh3.googleusercontent.com/cuj35f7TVERNS-ypwEWON3wA4CRT9rrwnEWB3vdAC3OnR7TByv3yrFyZyvpMicsC2EdYtrHawXhEzoCWwqzDNBsV24SBGLb1kDgaxA=w600',
-          image: 'https://drive.google.com/file/d/1s-d7A_3vUGVl24iVBGGcLXZ7BUjIqaUe/view?usp=sharing',
+          image: 'https://github.com/The-Street-Metaverse/Website/blob/main/images/sshot-31.png?raw=true',
           title: 'D"Artagnan',
           role: 'Dev/Techie',
           social: [
