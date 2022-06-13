@@ -6,16 +6,15 @@ const Roadmap: FunctionComponent = () => {
     <TimelineContainer id="roadmap" title="Roadmap" items={[
       {
         image: 'https://lh3.googleusercontent.com/qDLIwHJ5_bAoRUtlSGZuM3jTU_KNTvoLvDQSH8vv6ReuuxNIXCmgUq37EprQduZr2_XJhFHSLCxwm2XD6MTD2TIR-o4kX7U5QQ2148I=w330',
-        title: 'First 700 sales',
+        title: 'First 1000 Sales',
         content: (<>
-          Holders Giveaway<br />
-          OG Holders - Pioneers & Shelter HelperGiveaway
+          Whitelist for Gold NFT Certificate Giveway<br />
         </>)
       },
       {
         image: 'https://lh3.googleusercontent.com/o6APZAFIoXG-cY4qXVlImJGuxLqJaDmmE-E3fQVSCk-ZFOonys7bfWMMtjBxW22O-4-g6oOzjHt3IZM02XnjE7-M2dPcvss3EcFpbcM=w330',
-        title: '1000 sales',
-        content: 'Art contest'
+        title: '2000 sales',
+        content: 'Cultivar Collectives eBook Discount'
       },
       {
         image: 'https://lh3.googleusercontent.com/Z6cwjBUqIQWoeA24Iri_D_b8uw_R2LvtJ22ciur9ZyHLRdjs6IkSwmU9JQZO8SkNyNCshZG9DMBVDiPg1B-lhG1tQdmgRUl5j50J-g=w330',
@@ -44,7 +43,7 @@ const Roadmap: FunctionComponent = () => {
       },
       {
         image: 'https://lh3.googleusercontent.com/y7XOxpLMGgDu0F2h5i0EU6o3yW0c2iS4kvKbdk0TmAv5N6Yijng1cF5Ov3vZqTjQkDVUf4d5IUPJTGZWA1GILTcq164X9XPOXQQS=w330',
-        title: '5555 final sales',
+        title: '10000 final sales',
         content: (<>
           Charity donation to animal shelters (Community votes)<br />
           Breeding system
