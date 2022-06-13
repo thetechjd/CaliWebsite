@@ -6,9 +6,10 @@ const Roadmap: FunctionComponent = () => {
     <TimelineContainer id="roadmap" title="Roadmap" items={[
       {
         image: 'https://lh3.googleusercontent.com/qDLIwHJ5_bAoRUtlSGZuM3jTU_KNTvoLvDQSH8vv6ReuuxNIXCmgUq37EprQduZr2_XJhFHSLCxwm2XD6MTD2TIR-o4kX7U5QQ2148I=w330',
-        title: 'Edition 1 Culticars - First 1000 Sales',
+        title: ' First Edition  - 6710 Sales',
         content: (<>
           Whitelist for Gold NFT Certificate Giveway<br />
+          Cultivar Collectives eBook Discount
         </>)
       },
       {
