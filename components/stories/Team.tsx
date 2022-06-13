@@ -5,16 +5,15 @@ const Team: FunctionComponent = () => {
   return (
     <TeamContainer
       id="team"
-      title="Meet the Team"
+      title="Meet the Cultivar Team"
       items={[
         {
           image: 'https://lh3.googleusercontent.com/cuj35f7TVERNS-ypwEWON3wA4CRT9rrwnEWB3vdAC3OnR7TByv3yrFyZyvpMicsC2EdYtrHawXhEzoCWwqzDNBsV24SBGLb1kDgaxA=w600',
-          title: 'Mary',
+          title: 'Antonis',
           role: 'Creative director',
           social: [
-            'https://www.instagram.com/kriakiku/',
-            'https://www.tiktok.com/@kriakiku',
-            'https://1.envato.market/nft-pipistrelle',
+            'https://www.instagram.com/',
+            'https://www.tiktok.com/'
           ]
         },
         {
@@ -42,7 +41,7 @@ const Team: FunctionComponent = () => {
           role: 'Frontend dev',
           social: [
             'https://medium.com/',
-            'https://www.tiktok.com/@kriakiku',
+            'https://www.tiktok.com/',
             'https://youtube.com'
           ]
         },
