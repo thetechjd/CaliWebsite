@@ -8,8 +8,7 @@ const Team: FunctionComponent = () => {
       title="Meet the Cultivar Team"
       items={[
         {
-          // image: 'https://lh3.googleusercontent.com/cuj35f7TVERNS-ypwEWON3wA4CRT9rrwnEWB3vdAC3OnR7TByv3yrFyZyvpMicsC2EdYtrHawXhEzoCWwqzDNBsV24SBGLb1kDgaxA=w600',
-          image: 'https://ibb.co/P6phznR',
+          image: 'https://lh3.googleusercontent.com/cuj35f7TVERNS-ypwEWON3wA4CRT9rrwnEWB3vdAC3OnR7TByv3yrFyZyvpMicsC2EdYtrHawXhEzoCWwqzDNBsV24SBGLb1kDgaxA=w600',
           title: 'D"Artagnan',
           role: 'Dev/Techie',
           social: [
@@ -18,8 +17,7 @@ const Team: FunctionComponent = () => {
           ]
         },
         {
-          // image: 'https://lh3.googleusercontent.com/kg-A4af5pIfGfb2qQ3YuRHL97g98ziQVUFuAbanyrQltEr9Kzs3rJOub7rr2gacUuy9PgeD1lu24p_H7tWZjK1xKp-srbKFHuEpN=w600',
-          image: 'https://drive.google.com/file/d/1s-d7A_3vUGVl24iVBGGcLXZ7BUjIqaUe/view?usp=sharing',
+          image: 'https://lh3.googleusercontent.com/kg-A4af5pIfGfb2qQ3YuRHL97g98ziQVUFuAbanyrQltEr9Kzs3rJOub7rr2gacUuy9PgeD1lu24p_H7tWZjK1xKp-srbKFHuEpN=w600',
           title: 'Pavvy',
           role: 'Artist/Animator',
           social: [
@@ -29,8 +27,7 @@ const Team: FunctionComponent = () => {
           ]
         },
         {
-          // image: 'https://lh3.googleusercontent.com/90MaVfN87DGP3I_c7CK0-S-jWLA8CTEja1xxFKtAJaeI2t5z9z5F9g4Ph6ZJsXVCVlnMfWjKJQxrycS6QIPxUuWp4hnU3ptUWggx6IM=w600',
-          image: 'https://github.com/The-Street-Metaverse/Website/blob/main/images/sshot-31.png?raw=true',
+          image: 'https://lh3.googleusercontent.com/90MaVfN87DGP3I_c7CK0-S-jWLA8CTEja1xxFKtAJaeI2t5z9z5F9g4Ph6ZJsXVCVlnMfWjKJQxrycS6QIPxUuWp4hnU3ptUWggx6IM=w600',
           title: 'Alya',
           role: 'Creative Director',
           social: [
@@ -39,8 +36,7 @@ const Team: FunctionComponent = () => {
           ]
         },
         {
-          // image: 'https://lh3.googleusercontent.com/DEwYW2YzgdNQeNWzDnexr0kylmo-NZ2AI75_d6piM9lxx8YnzUz7vC5zs5_GO_XzbRAkbUUh5mGLRFWWoew4sw1r-SwR1UmAxfF0zQ=w600',
-          image: 'https://drive.google.com/file/d/1s-d7A_3vUGVl24iVBGGcLXZ7BUjIqaUe/view?usp=sharing',
+          image: 'https://lh3.googleusercontent.com/DEwYW2YzgdNQeNWzDnexr0kylmo-NZ2AI75_d6piM9lxx8YnzUz7vC5zs5_GO_XzbRAkbUUh5mGLRFWWoew4sw1r-SwR1UmAxfF0zQ=w600',
           title: 'Lawana',
           role: 'Marketeer',
           social: [
