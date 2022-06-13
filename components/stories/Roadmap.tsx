@@ -30,8 +30,8 @@ const Roadmap: FunctionComponent = () => {
       {
         image: 'https://lh3.googleusercontent.com/bDUhgMzEZmqsqmxVeTH6TlZvVWARNPVN13Cn8e0S1Hor9NCIhtHxCaPMQgguQ7HxM7OHEFWArdvOUlTH8XJB_Fn1laVL6MR-r8Af=w330',
         title: '2nd Edition 1000 sales',
-        content: (<> 1st Edition Rarity Cali Tribe Giveaway <br />
-        2nd Edition Rarity Cali Tribe Giveway [Terms TBA]</>)
+        content: (<> &#183; 1st Edition Rarity Cali Tribe Giveaway <br />
+        &#183; 2nd Edition Rarity Cali Tribe Giveway [Terms TBA]</>)
       },
       {
         image: 'https://lh3.googleusercontent.com/zNjBdItP4cMzotosSDNsZm1bySmfc9xdHwwC0EzKKhMwEVVZjhG7PxapSE8yidq7HMNl1B8LbgPj42ZDHi6chH0K3dZPhbm8rB69Vg=w330',
