@@ -30,7 +30,7 @@ const Team: FunctionComponent = () => {
         },
         {
           // image: 'https://lh3.googleusercontent.com/90MaVfN87DGP3I_c7CK0-S-jWLA8CTEja1xxFKtAJaeI2t5z9z5F9g4Ph6ZJsXVCVlnMfWjKJQxrycS6QIPxUuWp4hnU3ptUWggx6IM=w600',
-          image: '√Ωhttps://drive.google.com/file/d/1s-d7A_3vUGVl24iVBGGcLXZ7BUjIqaUe/view?usp=sharing',
+          image: 'https://github.com/The-Street-Metaverse/Website/blob/main/images/sshot-31.png?raw=true',
           title: 'Alya',
           role: 'Creative Director',
           social: [
