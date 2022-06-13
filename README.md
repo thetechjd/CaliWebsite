@@ -3,7 +3,7 @@
 ![The Street Metaverse Game (v2 2 2) - Important Updates](https://user-images.githubusercontent.com/8299759/173297752-e5551c00-27f8-4b69-86e1-2abdd96f9d3e.png)
 
 
-**Created:** 31.12.2021<br />
+**Created:** June 13, 2022<br />
 
 ### Contents
 
