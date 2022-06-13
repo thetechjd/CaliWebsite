@@ -1,6 +1,7 @@
 # NFT Metaverse Game Website Documentation <a id="contacts" href="#contacts">#</a>
 
-Thank you for purchasing my code. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form [here](https://codecanyon.net/user/kriakiku). Thanks so much!
+![The Street Metaverse Game (v2 2 2) - Important Updates](https://user-images.githubusercontent.com/8299759/173297752-e5551c00-27f8-4b69-86e1-2abdd96f9d3e.png)
+
 
 **Created:** 31.12.2021<br />
 
