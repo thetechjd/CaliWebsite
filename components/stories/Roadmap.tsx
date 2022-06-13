@@ -8,8 +8,8 @@ const Roadmap: FunctionComponent = () => {
         image: 'https://lh3.googleusercontent.com/qDLIwHJ5_bAoRUtlSGZuM3jTU_KNTvoLvDQSH8vv6ReuuxNIXCmgUq37EprQduZr2_XJhFHSLCxwm2XD6MTD2TIR-o4kX7U5QQ2148I=w330',
         title: ' 1st Edition  - All Sales',
         content: (<>
-          Whitelist for Gold NFT Certificate Giveway<br />
-          Cultivar Collectives eBook Discount Certificate
+          &#183; Whitelist for Gold NFT Certificate Giveway<br />
+          &#183; Cultivar Collectives eBook Discount Certificate
         </>)
       },
 //      {
@@ -31,7 +31,7 @@ const Roadmap: FunctionComponent = () => {
         image: 'https://lh3.googleusercontent.com/bDUhgMzEZmqsqmxVeTH6TlZvVWARNPVN13Cn8e0S1Hor9NCIhtHxCaPMQgguQ7HxM7OHEFWArdvOUlTH8XJB_Fn1laVL6MR-r8Af=w330',
         title: '2nd Edition 1000 sales',
         content: (<> &#183; 1st Edition Rarity Cali Tribe Giveaway <br />
-        &#183; 2nd Edition Rarity Cali Tribe Giveway [Terms TBA]</>)
+        &#183; 2nd Edition Rarity Cali Tribe Giveway</>)
       },
       {
         image: 'https://lh3.googleusercontent.com/zNjBdItP4cMzotosSDNsZm1bySmfc9xdHwwC0EzKKhMwEVVZjhG7PxapSE8yidq7HMNl1B8LbgPj42ZDHi6chH0K3dZPhbm8rB69Vg=w330',
