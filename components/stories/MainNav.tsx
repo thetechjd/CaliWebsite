@@ -18,10 +18,10 @@ const MainNav: FunctionComponent = () => {
           title: 'Explore',
           href: '/#explore'
         },
-        {
-          title: 'Roadmap',
-          href: '/#roadmap'
-        },
+//        {
+//          title: 'Roadmap',
+//          href: '/#roadmap'
+//        },
         {
           title: 'FAQ',
           href: '/#faq'
