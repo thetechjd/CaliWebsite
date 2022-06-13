@@ -37,8 +37,8 @@ const Team: FunctionComponent = () => {
         },
         {
           image: 'https://lh3.googleusercontent.com/DEwYW2YzgdNQeNWzDnexr0kylmo-NZ2AI75_d6piM9lxx8YnzUz7vC5zs5_GO_XzbRAkbUUh5mGLRFWWoew4sw1r-SwR1UmAxfF0zQ=w600',
-          title: 'Lucy',
-          role: 'Frontend dev',
+          title: 'Lawana',
+          role: 'Marketeer',
           social: [
             'https://medium.com/',
             'https://www.tiktok.com/',
